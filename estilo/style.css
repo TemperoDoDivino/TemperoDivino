@@ -67,7 +67,18 @@ footer div p {
 footer div span {
   color: #ffed00;
 }
-
+.creditos {
+  font-family: "Contrail One";
+  font-size: 0.5em;
+  text-align: center;
+  text-decoration: none;
+}
+.creditos a {
+  color: #e27c38;
+}
+.creditos p {
+  color: #ffffff;
+}
 .bolaD {
   margin-top: -50px;
 }/*# sourceMappingURL=style.css.map */
