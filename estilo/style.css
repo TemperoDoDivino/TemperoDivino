@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Contrail+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #8c1919 !important;
+}
+body a {
+  text-decoration: none;
+}
+
+header {
+  max-width: 1000px;
+  margin: auto;
+}
+header img {
+  max-width: 1000px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+main {
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-items: center;
+  justify-content: center;
+  max-width: 700px;
+  padding: 20px;
+}
+main h1 {
+  text-align: center;
+  color: #ffffff;
+  margin: 20px 0px 50px 0px;
+  font-family: "Montserrat", sans-serif;
+}
+main div {
+  text-align: center;
+  font-family: "Contrail One";
+  font-size: 1.5em;
+  color: #ffed00;
+  margin: auto;
+  background-color: #e27c38;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px;
+}
+main div:hover {
+  background-color: #f07421;
+}
+
+footer {
+  margin-top: 10px;
+}
+footer div {
+  text-align: center;
+  color: #ffffff;
+}
+footer div h2 {
+  font-size: 1em;
+  margin-bottom: 50px;
+}
+footer div p {
+  font-size: 0.5em;
+}
+footer div span {
+  color: #ffed00;
+}
+
+.bolaD {
+  margin-top: -50px;
+}/*# sourceMappingURL=style.css.map */
